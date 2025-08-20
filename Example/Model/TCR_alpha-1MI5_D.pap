@@ -1,0 +1,14 @@
+ _aln.pos          10        20        30        40        50        60
+1MI5_D     KTTQPNSMESNEEEPVHLPCNHSTISGTDYIHWYRQLPSQGPEYVIHGLTSNVNNRMASLAIAEDRK 
+TCR_alpha  KTTQPNSMESNEEEPVHLPCNHSTISG-DYIHWYRQLPSQGPEYVIHGLTSNVNNRMASLAIAEDRK 
+ _consrvd  *************************** ***************************************
+
+ _aln.pos   70        80        90       100       110       120       130
+1MI5_D     SSTLILHRATLRDAAVYYCILPLAGGTSYGKLTFGQGTILTVHPNIQNPDPAVYQLRDSKSSDKSVC 
+TCR_alpha  SSTLILHRATLRDAAVYYCILPLAGGTSYGKLTFGQGTILTVHPNIQNPDPAVYQLRDSKSSDKSVC 
+ _consrvd  *******************************************************************
+
+ _aln.pos     140       150       160       170       180       190       200
+1MI5_D     LFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPS 
+TCR_alpha  LFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPS 
+ _consrvd  *******************************************************************

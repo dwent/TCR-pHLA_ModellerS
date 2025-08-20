@@ -1,0 +1,9 @@
+fa_atr	-62.852
+fa_pair	-3.923
+fa_rep	176.616
+fa_sol	38.983
+hbond_bb_sc	-1.435
+hbond_lr_bb	-0.00100000000003
+hbond_sc	-1.936
+hbond_sr_bb	-0.001
+ATLAS_bind_score	-73.8277977

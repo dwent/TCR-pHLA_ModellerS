@@ -1,0 +1,5 @@
+.WorkSpaceExampleHLA_alpha-HLA_beta-peptide-TCR_alpha-TCR_beta.B99990001.pdb     5340.08496   -89424.83594        1.00000
+.WorkSpaceExampleHLA_alpha-HLA_beta-peptide-TCR_alpha-TCR_beta.B99990002.pdb     5398.47510   -89520.10156        1.00000
+.WorkSpaceExampleHLA_alpha-HLA_beta-peptide-TCR_alpha-TCR_beta.B99990003.pdb     5282.51611   -89718.81250        1.00000
+.WorkSpaceExampleHLA_alpha-HLA_beta-peptide-TCR_alpha-TCR_beta.B99990004.pdb     5572.24463   -89283.33594        1.00000
+.WorkSpaceExampleHLA_alpha-HLA_beta-peptide-TCR_alpha-TCR_beta.B99990005.pdb     5459.04834   -89821.78125        1.00000

@@ -1,0 +1,6 @@
+Model	Score
+model1	-82.75
+model2	-79.18
+model3	-76.14
+model4	-74.85
+model5	-73.83
