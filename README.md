@@ -125,7 +125,7 @@ You may need to install some Python modules, such as:
 
 **Example**:
 
-`python ./TCR-pHLA_modelling.py Example/Example.fasta Example/Model 5`
+`python TCR-pHLA_modelling.py Example/Example.fasta Example/Model 5`
 
 This will generate the predicted models (`model*.pdb`) in the `Example/Model` directory, and the affinity scores will be saved in a file named `Score.txt`.
 
