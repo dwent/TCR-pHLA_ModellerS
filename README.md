@@ -26,7 +26,7 @@ This pipeline includes two main modules:
 #### Usage:
 
 ```
-prel Pipline_modeller.pl [templates set] [query seqs] [UserDir] [model_num] [ProgramDir]
+perl Pipline_modeller.pl [templates set] [query seqs] [UserDir] [model_num] [ProgramDir]
 ```
 
 -   `templates set`: This is the TCR-pHLA complex protein structure template library for homology modeling, located in the `Template` folder. This folder contains two subfolders:
