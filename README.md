@@ -115,9 +115,9 @@ You may need to install some Python modules, such as:
 
 ### TCR-pHLA Complex Modeling
 
-**Script**: `TCR-pHLA_modelling.py`
+**Script**: `TCR-pMHC_modelling.py`
 
-**Usage**:`python TCR-pHLA_modelling.py [TCR-pHLA complex sequence] [Output dir] [Number of models]`
+**Usage**:`python TCR-pMHC_modelling.py [TCR-pMHC complex sequence] [Output dir] [Number of models]`
 
 - `TCR-pHLA complex sequence`: A FASTA formatted file with the TCR-pHLA complex protein sequences.
 - `Output dir`: The directory where the results will be saved.
@@ -125,13 +125,13 @@ You may need to install some Python modules, such as:
 
 **Example**:
 
-`python TCR-pHLA_modelling.py Example/Example.fasta Example/Model 5`
+`python TCR-pMHC_modelling.py Example/Example.fasta Example/Model 5`
 
 This will generate the predicted models (`model*.pdb`) in the `Example/Model` directory, and the affinity scores will be saved in a file named `Score.txt`.
 
 ## Solving  Bugs:
 
-1. **Check ros_path**: Make sure the path in line 12 of `TCR-pHLA_modelling.py` is correctly set to your local Rosetta installation.
+1. **Check ros_path**: Make sure the path in line 12 of `TCR-pMHC_modelling.py` is correctly set to your local Rosetta installation.
 2. Verify Rosetta Installation: After installing Rosetta, ensure you have compiled it correctly. Check that the directory contains the following:
    - `main/source/bin` (compiled binaries).
    - The executable program `score.linuxgccrelease` in the `bin` directory.
